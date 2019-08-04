@@ -2,4 +2,4 @@
 
 A sequential CNN trained on MNIST dataset capable of recognising hand written digits with a test accuracy of 98.4%
 
-##Library Used : Tensorflow, Keras.
+## Library Used : Tensorflow, Keras.
